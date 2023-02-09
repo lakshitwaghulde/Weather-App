@@ -10,6 +10,15 @@ body {
     font-size: 120%;
 }
 
+.footer{
+    position: fixed;
+    text-align: right;
+    bottom: 15px;
+    width: 95%;
+    color: white;
+    font-style: italic;
+}
+
 .card {
     background: #000000d0;
     color: white;
